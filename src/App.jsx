@@ -3,6 +3,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router'; // Fixed import from 'react-router' to 'react-router-dom'
 import Header from './components/header/Header';
 import Counter from './components/Counter';
+
 import BgChange from './components/BgChange';
 import Layout from './components/layout/Layout';
 import PasswordGenerator from './components/PasswordGenerator';
