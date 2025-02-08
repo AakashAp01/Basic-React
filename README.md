@@ -15,13 +15,13 @@ A powerful multi-tool web app featuring:
 ## 📸 Screenshots
 
 ### 🔐 Password Generator
-![Password Generator](https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_1)
+![Password Generator](https://drive.google.com/uc?export=view&id=1SZVykD3TjQ5K4WukvahCxd1D4d6OFHYe)
 
 ### 🎨 Background Color Changer
 ![Background Changer](https://drive.google.com/uc?export=view&id=1ldgXk9aNZjRj-ugPkYIJfQnmj213y95y)
 
 ### 💱 Currency Converter
-![Currency Converter](https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_3)
+![Currency Converter](https://drive.google.com/uc?export=view&id=1SZVykD3TjQ5K4WukvahCxd1D4d6OFHYe)
 
 ---
 
