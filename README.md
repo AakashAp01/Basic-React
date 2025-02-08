@@ -1,8 +1,33 @@
-# React + Vite
+# 🚀 Ultimate Utility App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A powerful multi-tool web app featuring:
+- 🔐 **Password Generator**: Create strong, secure passwords.
+- 🎨 **Background Color Changer**: Customize your UI with dynamic colors.
+- 💱 **Currency Converter**: Get real-time exchange rates.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎥 Live Demo
+🔗 [**View Project**](https://your-project-link.com)
+
+---
+
+## 📸 Screenshots
+
+### 🔐 Password Generator
+![Password Generator](https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_1)
+
+### 🎨 Background Color Changer
+![Background Changer]([https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_2](https://drive.google.com/file/d/1ldgXk9aNZjRj-ugPkYIJfQnmj213y95y/view?usp=sharing))
+
+### 💱 Currency Converter
+![Currency Converter](https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_3)
+
+---
+
+
+## 🛠️ Tech Stack
+- **Frontend**: React.js, Tailwind CSS
+- **API**: Currency Exchange API
+- **Hosting**: Vercel / Netlify
+
