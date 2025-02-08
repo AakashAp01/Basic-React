@@ -1,6 +1,6 @@
-# 🚀 Ultimate Utility App
+# 🚀 Basic React Project
 
-A powerful multi-tool web app featuring:
+A web app featuring:
 - 🔐 **Password Generator**: Create strong, secure passwords.
 - 🎨 **Background Color Changer**: Customize your UI with dynamic colors.
 - 💱 **Currency Converter**: Get real-time exchange rates.
