@@ -18,12 +18,13 @@ A powerful multi-tool web app featuring:
 ![Password Generator](https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_1)
 
 ### 🎨 Background Color Changer
-![Background Changer]([https://drive.google.com/file/d/1ldgXk9aNZjRj-ugPkYIJfQnmj213y95y/view?usp=sharing](https://drive.google.com/file/d/1ldgXk9aNZjRj-ugPkYIJfQnmj213y95y/view?usp=drive_link))
+![Background Changer](https://drive.google.com/uc?export=view&id=1ldgXk9aNZjRj-ugPkYIJfQnmj213y95y)
 
 ### 💱 Currency Converter
 ![Currency Converter](https://drive.google.com/uc?export=view&id=YOUR_FILE_ID_3)
 
 ---
+
 
 
 ## 🛠️ Tech Stack
